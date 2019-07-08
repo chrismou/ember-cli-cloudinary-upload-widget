@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-cloudinary-upload-widget",
+  "name": "@chrismou/ember-cli-cloudinary-upload-widget",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
